@@ -146,5 +146,10 @@
         RapidFireUp: "Tir super rapide",
         CarvingPro: "Expert en dépeçage",
         Steadiness: "Sniper"
+    },
+    armors: {
+        "Kaiser Crown": "Couronne Kaiser",
+        "Kaiser Mail": "Cotte Kaiser",
+        "Kaiser Vambraces": "Avant-bras Kaiser"
     }
 )

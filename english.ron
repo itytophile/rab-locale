@@ -146,5 +146,6 @@
         RapidFireUp: "Rapid Fire Up",
         CarvingPro: "Carving Pro",
         Steadiness: "Steadiness"
-    }
+    },
+    armors: {}
 )
