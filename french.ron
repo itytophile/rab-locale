@@ -37,6 +37,10 @@
         RemoveTalisman: "Supprimer talisman",
         TemplateFreeSlot: "Fente libre nv {size}",
         TemplateJewelOnSlot: "{skill} fente nv {size}",
+        UpdateArmors: "Mettre à jour armures",
+        Updated: "À jour",
+        Updating: "Mise à jour...",
+        ProblemCheckConsole: "Problème, vérifiez console",
     },
     skills: {
         AttackBoost: "Machine de guerre",

@@ -37,6 +37,10 @@
         RemoveTalisman: "Remove talisman",
         TemplateFreeSlot: "Free lvl {size} slot",
         TemplateJewelOnSlot: "{skill} on lvl {size} slot",
+        UpdateArmors: "Update armors",
+        Updated: "Updated",
+        Updating: "Updating...",
+        ProblemCheckConsole: "Problem, check console",
     },
     skills: {
         AttackBoost: "Attack Boost",
