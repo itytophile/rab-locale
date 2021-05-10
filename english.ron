@@ -41,6 +41,9 @@
         Updated: "Updated",
         Updating: "Updating...",
         ProblemCheckConsole: "Problem, check console",
+        ManageBuilds: "Manage builds",
+        SaveBuild: "Save build",
+        NewBuildName: "New build name",
     },
     skills: {
         AttackBoost: "Attack Boost",

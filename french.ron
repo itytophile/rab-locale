@@ -41,6 +41,9 @@
         Updated: "À jour",
         Updating: "Mise à jour...",
         ProblemCheckConsole: "Problème, vérifiez console",
+        ManageBuilds: "Gestion builds",
+        SaveBuild: "Sauvegarder build",
+        NewBuildName: "Nouveau nom du build",
     },
     skills: {
         AttackBoost: "Machine de guerre",
