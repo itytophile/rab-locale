@@ -155,6 +155,8 @@
         HellfireCloak: "Hellfire Cloak",
         WindAlignment: "Wind Alignment",
         ThunderAlignment: "Thunder Alignment",
+        Dragonheart: "Dragonheart",
+        Stormsoul: "Stormsoul"
     },
     armors: {}
 )

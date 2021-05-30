@@ -111,6 +111,8 @@
         HellfireCloak: "Höllenfeuer-Umhang",
         WindAlignment: "Wind-Abgleich",
         ThunderAlignment: "Donner-Abgleich",
+        Dragonheart: "Drachenherz",
+        Stormsoul: "Sturmseele"
     },
     armors: {
 "Kamura Head Scarf": "Kamura-Kopftuch",

@@ -155,6 +155,8 @@
         HellfireCloak: "Cape Feu de l'enfer",
         WindAlignment: "Alignement vent",
         ThunderAlignment: "Alignement tonnerre",
+        Dragonheart: "Coeur de dragon",
+        Stormsoul: "Âme de la tempête",
     },
     armors: {
 "Kamura Head Scarf": "Turban Kamura",

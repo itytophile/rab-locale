@@ -111,6 +111,8 @@
         HellfireCloak: "Mantello infernale",
         WindAlignment: "Allineamento vento",
         ThunderAlignment: "Allineamento tuono",
+        Dragonheart: "Cuor di drago",
+        Stormsoul: "Tempestanima"
     },
     armors: {
 "Kamura Head Scarf": "Bandana Kamura",

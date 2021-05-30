@@ -111,6 +111,8 @@
         HellfireCloak: "Завеса ад. пламени",
         WindAlignment: "Тайна ветра",
         ThunderAlignment: "Тайна грозы",
+        Dragonheart: "Драконье сердце",
+        Stormsoul: "Душа бури"
     },
     armors: {
         "Kamura Head Scarf": "Платок Камуры",
